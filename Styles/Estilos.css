@@ -1,0 +1,32 @@
+h1 {
+  font-size: 6rem;
+  color: #ffffbf;
+  font-family: 'Stylish', sans-serif;
+}
+
+p {
+  font-size: 3.2rem;
+  color: #ffffbf;
+}
+
+
+.Titulo {
+  background-color: #444;
+  padding: 3rem;
+}
+
+.Jugadores {
+  text-align: center;
+  font-family: 'Stylish', sans-serif;
+  background-color: #444;
+}
+
+.inicio {
+  text-align: center;
+}
+
+#Rights{
+  font-family: 'Stylish', sans-serif;
+  background-color: #444;
+  font-size: 1rem;
+}
